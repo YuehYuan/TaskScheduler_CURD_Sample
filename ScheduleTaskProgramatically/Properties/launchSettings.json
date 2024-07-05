@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "新增工作排程": {
+      "commandName": "Project",
+      "commandLineArgs": "AddNewTask_Notepad++ \"Open Notepad++\""
+    },
+    "修改工作排程": {
+      "commandName": "Project",
+      "commandLineArgs": "UpdateTask \"Open Notepad++\""
+    },
+    "讀取工作排程": {
+      "commandName": "Project",
+      "commandLineArgs": "ReadTask \"Open Notepad++\""
+    },
+    "刪除工作排程": {
+      "commandName": "Project",
+      "commandLineArgs": "DeleteTask \"Open Notepad++\""
+    }
+  }
+}
